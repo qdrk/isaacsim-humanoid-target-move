@@ -1,3 +1,10 @@
+# Instructions
+```shell
+cd scripts/rl_games
+python train.py --task=Template-Humanoid-Target-Move-Direct-v0 --headless
+python play.py --task=Template-Humanoid-Target-Move-Direct-v0 
+```
+
 # Template for Isaac Lab Projects
 
 ## Overview
